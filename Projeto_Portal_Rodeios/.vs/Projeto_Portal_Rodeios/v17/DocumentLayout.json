@@ -3,19 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\adm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\adm\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\adm\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\adm\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\adm\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\adm\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\projeto_portal_rodeios\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\projeto_portal_rodeios\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\projeto_portal_rodeios\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{134BA269-6F3E-406C-A0B7-21A13D4ED58F}|Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios.csproj|solutionrelative:projeto_portal_rodeios\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B32B173-45F8-4659-BDC0-D8530B6636CF}|Acesso_Banco\\Acesso_Banco.csproj|c:\\users\\pichau\\source\\repos\\projeto_portal\\projeto_portal_rodeios\\acesso_banco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B32B173-45F8-4659-BDC0-D8530B6636CF}|Acesso_Banco\\Acesso_Banco.csproj|C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\acesso_banco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B32B173-45F8-4659-BDC0-D8530B6636CF}|Acesso_Banco\\Acesso_Banco.csproj|solutionrelative:acesso_banco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +46,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Web.config",
+              "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Web.config",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Web.config",
+              "RelativeToolTip": "Projeto_Portal_Rodeios\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-21T00:22:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Adm\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Adm\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Adm\\Login.aspx.cs",
+              "RelativeToolTip": "Projeto_Portal_Rodeios\\Adm\\Login.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:19:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Adm\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Adm\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Adm\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Projeto_Portal_Rodeios\\Adm\\Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:19:40.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Adm\\Login.aspx",
+              "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Adm\\Login.aspx",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Adm\\Login.aspx",
+              "RelativeToolTip": "Projeto_Portal_Rodeios\\Adm\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-21T00:18:44.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Default.aspx.cs",
+              "RelativeToolTip": "Projeto_Portal_Rodeios\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:18:28.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Site.Mobile.Master",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Site.Mobile.Master",
               "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Site.Mobile.Master",
@@ -38,12 +123,11 @@
               "RelativeToolTip": "Projeto_Portal_Rodeios\\Site.Mobile.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-21T00:01:16.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T00:01:16.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Default.aspx",
               "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Default.aspx",
@@ -56,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Acesso_Banco\\Class1.cs",
               "RelativeDocumentMoniker": "Acesso_Banco\\Class1.cs",
@@ -64,12 +148,11 @@
               "RelativeToolTip": "Acesso_Banco\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T23:51:49.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T23:51:49.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Projeto_Portal\\Projeto_Portal_Rodeios\\Projeto_Portal_Rodeios\\Site.Master",
               "RelativeDocumentMoniker": "Projeto_Portal_Rodeios\\Site.Master",
